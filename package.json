@@ -1,0 +1,12 @@
+{
+  "name": "sistema-pagamento",
+  "version": "1.0.0",
+  "main": "src/SistemaPagamento.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "description": "Atividade prática de conclusão da disciplina Programação para Automação de Testes",
+  "devDependencies": {
+    "mocha": "^11.7.6"
+  }
+}
